@@ -1,6 +1,5 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @KDRAMA_TALKIES
+# Ask Doubt on telegram @Dramathief
 
 
 import sys
@@ -107,6 +106,5 @@ if __name__ == '__main__':
         logging.info('Service Stopped Bye 👋')
 
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @KDRAMA_TALKIES
+# Ask Doubt on telegram @Dramathief
